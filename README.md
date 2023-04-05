@@ -20,6 +20,20 @@ Após tudo criado e validado utilizando notebooks, será passado o sistema de re
 
 Com os endpoints necessários criados, será desenvolvido uma aplicação em React para apresentar ao usuário as músicas recomendadas.
 
+## Implementação
+
+Como informado nas especificações do projeto, será desenvolvido um sistema de recomendações para o usuário, seguindo a pipeline abaixo:
+
+<p align="center" style="text-align: center;">
+    <img alt="Pipeline do Sistema de Recomendação" src="./assets/pipeline.png" />
+</p>
+
+Após a conclusão do sistema de recomendação, será criado a API e a aplicação em React para o usuário poder utilizar o mesmo, como mostrado no artefato abaixo:
+
+<p align="center" style="text-align: center;">
+    <img height="200px" alt="Artefato" src="./assets/artifacts.png" />
+</p>
+
 ## Critérios de Avaliação
 
 - Relevância do projeto e complexidade (10%)
