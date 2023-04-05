@@ -1,6 +1,6 @@
 # Sistema de Recomendação de Músicas
 
-> Gabriela Liz Moreira, Henrique de Castilhos e Luiz Eduardo Kraisch Silva
+Gabriela Liz Moreira, Henrique de Castilhos e Luiz Eduardo Kraisch Silva
 
 ## Sobre
 
